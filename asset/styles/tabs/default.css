@@ -1,0 +1,7 @@
+div.tab-page {
+    display:none;
+}
+
+div.active-page {
+    display: block;
+}
